@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "That thing you can hold in your hand that comes in a set of two."
+  }
+ ]
+}

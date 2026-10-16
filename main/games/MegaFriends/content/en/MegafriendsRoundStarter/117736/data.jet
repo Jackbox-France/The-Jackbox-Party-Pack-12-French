@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "That thing that’s improved over the years, but still kinda sucks."
+  }
+ ]
+}

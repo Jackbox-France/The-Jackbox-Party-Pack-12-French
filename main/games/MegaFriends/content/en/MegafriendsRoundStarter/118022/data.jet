@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "That thing you take for granted, but would DEFINITELY notice if it was gone."
+  }
+ ]
+}

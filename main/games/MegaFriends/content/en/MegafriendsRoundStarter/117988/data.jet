@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "The thing you need to grab when you've made mistakes."
+  }
+ ]
+}

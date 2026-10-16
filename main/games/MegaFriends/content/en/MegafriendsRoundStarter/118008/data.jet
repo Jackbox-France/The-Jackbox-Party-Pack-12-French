@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "That thing that CAN harm you, but no one’s afraid of it."
+  }
+ ]
+}
