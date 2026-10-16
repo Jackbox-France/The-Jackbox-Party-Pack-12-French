@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Brava! It’s opening night at these two’s BIG performance! What are we leaving for them in their dressing room? Bravissima!"
+  }
+ ]
+}

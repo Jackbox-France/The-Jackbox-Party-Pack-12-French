@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "We’ll miss our friends while they’re off at their big, big jobs! That’s why we always make sure to BLANK before they head off to work!"
+  }
+ ]
+}

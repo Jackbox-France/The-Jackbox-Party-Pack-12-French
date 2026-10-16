@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Huzzah and hurrah! The road to these two’s alliance has been an epic tale, much like the epic film BLANK!"
+  }
+ ]
+}

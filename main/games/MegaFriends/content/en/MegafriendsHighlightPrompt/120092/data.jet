@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Let’s admire this friend’s daily regimen! What’s one thing they SWEAR they do every day? For example, every day I consume and re-consume myself! Yum yum!"
+  }
+ ]
+}

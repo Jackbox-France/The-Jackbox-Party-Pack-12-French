@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "If you add these two pals, plus MY squishiness, we’ll be able to do all sorts of three-person activities, like BLANK!"
+  }
+ ]
+}

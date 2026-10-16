@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Congrats! Our two friends here just got promoted at work because of how well they work together. They are now the Chief BLANK Officers!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "What's a soothing word or two that would immediately make our friend here feel comfy-womfy? Or, alternatively, cozy-wozy."
+  }
+ ]
+}

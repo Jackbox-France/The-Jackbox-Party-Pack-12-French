@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Oh, dear! Our friend feels faint! Go fetch them their emergency beverage, an ice-cold BLANK."
+  }
+ ]
+}

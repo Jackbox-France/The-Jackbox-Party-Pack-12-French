@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "I possess a gelatinous core! What's an actually GOOD trait that our friend here possesses? Careful around my core!"
+  }
+ ]
+}
