@@ -127,7 +127,7 @@
       "WRONG_ANSWER": "%s a été incorrectement placée à %s",
       "PLAYER_HOPPED": "%s a changé de station",
       "ANSWER_EXPIRED": "%s a expiré",
-      "LOBBY_GAME_PAD_UNBALANCED_TEAMS": "Les équipes ne sont pas assez équilibrées ! Un ou des joueur(s) doivent changer d'équipe avant de commencer.",
+      "LOBBY_GAME_PAD_UNBALANCED_TEAMS": "Les équipes ne sont pas assez équilibrées ! Un ou plusieurs joueur(s) doivent changer d'équipe avant de commencer.",
       "ROOM_CODE_AUDIENCE_OFF_ROUND_TEXT": "MANCHE %s",
       "GOD_NAME_QUIZTAR": "Quiztar",
       "GOD_NAME_CEREBRIEL": "Cérébriel",
