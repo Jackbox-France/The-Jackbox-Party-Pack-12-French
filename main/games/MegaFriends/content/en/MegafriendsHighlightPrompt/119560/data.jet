@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Our pals went to the field day family reunion and won a contest. What was the contest?"
+  }
+ ]
+}

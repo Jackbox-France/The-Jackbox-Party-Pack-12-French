@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "These two are taking a watercolor class together! What are they painting? And why is it not ME?"
+  }
+ ]
+}

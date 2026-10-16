@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Before we start shipping our friend here with anyone, let’s ship something TO them. Perhaps a monthly subscription to... BLANK!"
+  }
+ ]
+}

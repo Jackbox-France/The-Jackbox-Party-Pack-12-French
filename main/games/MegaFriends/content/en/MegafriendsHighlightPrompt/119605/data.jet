@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Oh NO! Our friends have an evil plan for world domination. Where is their secret lair hidden?"
+  }
+ ]
+}

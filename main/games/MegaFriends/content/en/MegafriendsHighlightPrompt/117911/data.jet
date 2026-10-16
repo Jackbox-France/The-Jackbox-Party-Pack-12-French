@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Awww, our friend tripped and scraped their knee! Let’s give them BLANK so they’ll feel better. Poor baby."
+  }
+ ]
+}

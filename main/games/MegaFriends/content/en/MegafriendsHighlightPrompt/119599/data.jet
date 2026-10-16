@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Yikes! Our pal’s got a rough tummy ache from eating too much BLANK at the fair. It’s okay, champ, burp it out."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Our pals deserve a brand deal! This friendship is now proudly sponsored by: BLANK. Minus my 20%, of course."
+  }
+ ]
+}

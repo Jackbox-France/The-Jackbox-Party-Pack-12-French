@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Let’s give our friends a little scare! What’s a word that would freak them out? I’m scared of the word “WORD.” AHHH!"
+  }
+ ]
+}
