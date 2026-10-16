@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Honey! Go get our friend! They’re bored and they won’t stop throwing BLANK on the trampoline to see if it’ll bounce!"
+  }
+ ]
+}

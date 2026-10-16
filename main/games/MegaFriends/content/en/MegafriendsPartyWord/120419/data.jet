@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Well I appreciate the offer, but I've already matched with your mother."
+  }
+ ]
+}

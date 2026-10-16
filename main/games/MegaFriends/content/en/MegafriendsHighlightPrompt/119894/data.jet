@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Our craftiest friend is taking the D.I.Y. lifestyle seriously. These days, they’re even making their own BLANK."
+  }
+ ]
+}

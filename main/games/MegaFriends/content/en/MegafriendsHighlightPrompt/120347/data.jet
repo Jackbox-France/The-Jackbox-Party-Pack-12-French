@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "These two often think alike. And now they’ll DRESS alike, when we put them in our new denim-based clothing item, the BLANK."
+  }
+ ]
+}

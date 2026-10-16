@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "If we had to describe our friend here using one dorky inspirational word, it would be: BLANK. You know! Like the posters they put in the bathroom at work?"
+  }
+ ]
+}

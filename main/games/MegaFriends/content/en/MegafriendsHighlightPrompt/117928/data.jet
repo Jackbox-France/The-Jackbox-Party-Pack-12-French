@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Let’s give our pal a tattoo while they sleep! What do you wanna ink ‘em with? I’ve got a butterfly on my... hm. SOMEwhere."
+  }
+ ]
+}

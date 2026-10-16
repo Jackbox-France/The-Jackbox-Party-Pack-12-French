@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "These two fashionista friends are the nation’s next top models! We know that because they won’t stop saying the word “BLANK.”"
+  }
+ ]
+}

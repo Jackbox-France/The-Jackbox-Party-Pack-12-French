@@ -1,0 +1,405 @@
+{
+ "content": [
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "smize",
+     "setupDecoy": "Modeling"
+    },
+    {
+     "punchlineDecoy": "cry",
+     "setupDecoy": "Tax"
+    },
+    {
+     "punchlineDecoy": "ditch the jumpsuit",
+     "setupDecoy": "Prison Escape"
+    }
+   ],
+   "id": "119303",
+   "prompt": "Happy {{BLANK}} Day!",
+   "punchline": "Don’t forget to"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "you can get it back",
+     "setupDecoy": "stealing your identity"
+    },
+    {
+     "punchlineDecoy": "it’s okay to tell you like this",
+     "setupDecoy": "the breakup"
+    }
+   ],
+   "id": "119304",
+   "prompt": "Sorry about {{BLANK}}.",
+   "punchline": "Fingers crossed"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "bite. hard.",
+     "setupDecoy": "your new teeth"
+    },
+    {
+     "punchlineDecoy": "choose C. or was it D?",
+     "setupDecoy": "the big test"
+    }
+   ],
+   "id": "119307",
+   "prompt": "Good luck with {{BLANK}}.",
+   "punchline": "When in doubt"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "that sucks",
+     "setupDecoy": "died"
+    },
+    {
+     "punchlineDecoy": "yeah, just wanted you to know",
+     "setupDecoy": "messed up BIG TIME"
+    }
+   ],
+   "id": "119308",
+   "prompt": "We heard you {{BLANK}}.",
+   "punchline": "Wanted you to know"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "me when they give out the gift bags.",
+     "setupDecoy": "an Oscar"
+    },
+    {
+     "punchlineDecoy": "it’s not going to last",
+     "setupDecoy": "me over"
+    }
+   ],
+   "id": "119309",
+   "prompt": "You won {{BLANK}}!",
+   "punchline": "Remember,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Adderall",
+     "setupDecoy": "college"
+    },
+    {
+     "punchlineDecoy": "that. that is really something.",
+     "setupDecoy": "the apocalypse"
+    }
+   ],
+   "id": "119311",
+   "prompt": "You survived {{BLANK}}.",
+   "punchline": "Thank god for",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "they’re cooler than the first one.",
+     "setupDecoy": "secret second family"
+    },
+    {
+     "punchlineDecoy": "no one else noticed.",
+     "setupDecoy": "big embarrassing mistake"
+    }
+   ],
+   "id": "119312",
+   "prompt": "Heard about your {{BLANK}}.",
+   "punchline": "Hopefully",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "brunch!",
+     "setupDecoy": "gay"
+    },
+    {
+     "punchlineDecoy": "ever!",
+     "setupDecoy": "kidnapping you"
+    }
+   ],
+   "id": "119313",
+   "prompt": "It’s official, we’re {{BLANK}}.",
+   "punchline": "Join us for",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "start hauntin’",
+     "setupDecoy": "away"
+    },
+    {
+     "punchlineDecoy": "juggle? do clowns still do that? i don’t want to stereotype",
+     "setupDecoy": "clown college"
+    }
+   ],
+   "id": "119314",
+   "prompt": "Congrats on passing {{BLANK}}!",
+   "punchline": "You’re ready to"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "the worst",
+     "setupDecoy": "nothing"
+    },
+    {
+     "punchlineDecoy": "getting robbed",
+     "setupDecoy": "the money"
+    }
+   ],
+   "id": "119523",
+   "prompt": "Thanks for {{BLANK}}",
+   "punchline": "You’re"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "much like butter",
+     "setupDecoy": "it’s not butter"
+    },
+    {
+     "punchlineDecoy": "crazy",
+     "setupDecoy": "I’m entombed in this object"
+    }
+   ],
+   "id": "119525",
+   "prompt": "Wow, I can’t believe {{BLANK}}!",
+   "punchline": "That’s so"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "be born rich",
+     "setupDecoy": "life"
+    },
+    {
+     "punchlineDecoy": "less tongue!",
+     "setupDecoy": "greeting customers"
+    }
+   ],
+   "id": "119526",
+   "prompt": "Terrible job on {{BLANK}}!",
+   "punchline": "Next time"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "another to-do list!",
+     "setupDecoy": "your to-do list"
+    },
+    {
+     "punchlineDecoy": "heartburn, nausea, indigestion, upset stomach, DIARRHEA!",
+     "setupDecoy": "dinner"
+    }
+   ],
+   "id": "119527",
+   "prompt": "You finished {{BLANK}}!",
+   "punchline": "Next up,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "ate them",
+     "setupDecoy": "raking the leaves"
+    },
+    {
+     "punchlineDecoy": "set the plan in motion",
+     "setupDecoy": "apologizing"
+    }
+   ],
+   "id": "119530",
+   "prompt": "Don’t worry about {{BLANK}}",
+   "punchline": "I already"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "it was for the best",
+     "setupDecoy": "I released the bees"
+    },
+    {
+     "punchlineDecoy": "it might be too scary",
+     "setupDecoy": "I never watched Friends"
+    }
+   ],
+   "id": "119531",
+   "prompt": "I must confess {{BLANK}}",
+   "punchline": "Just thought"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "lunch money",
+     "setupDecoy": "not beating you up"
+    },
+    {
+     "punchlineDecoy": "Robux. The currency of the future.",
+     "setupDecoy": "the time travel machine"
+    }
+   ],
+   "id": "119532",
+   "prompt": "You owe me for {{BLANK}}",
+   "punchline": "I accept"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "one embarrassing moment that haunts you for years",
+     "setupDecoy": "man"
+    },
+    {
+     "punchlineDecoy": "10 years of exile",
+     "setupDecoy": "my Queen"
+    }
+   ],
+   "id": "119534",
+   "prompt": "Cheer up, {{BLANK}}!",
+   "punchline": "It’s only"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "an uprising!",
+     "setupDecoy": "the election"
+    },
+    {
+     "punchlineDecoy": "barter and trade",
+     "setupDecoy": "all your money"
+    }
+   ],
+   "id": "119535",
+   "prompt": "Sorry you lost {{BLANK}}.",
+   "punchline": "There’s always"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "our thin atmosphere",
+     "setupDecoy": "Mars"
+    },
+    {
+     "punchlineDecoy": "the marching band",
+     "setupDecoy": "the Black Parade"
+    }
+   ],
+   "id": "119536",
+   "prompt": "Welcome to {{BLANK}}!",
+   "punchline": "You’re gonna love"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "not worth 30 years in prison",
+     "setupDecoy": "that heist"
+    },
+    {
+     "punchlineDecoy": "so cool to become CEO",
+     "setupDecoy": "a hostile takeover"
+    },
+    {
+     "punchlineDecoy": "getting old being Captain",
+     "setupDecoy": "the mutiny"
+    }
+   ],
+   "id": "119538",
+   "prompt": "Thanks for planning {{BLANK}}.",
+   "punchline": "It was"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "teach it swears!",
+     "setupDecoy": "baby"
+    },
+    {
+     "punchlineDecoy": "leave crumbs in it",
+     "setupDecoy": "car"
+    }
+   ],
+   "id": "119539",
+   "prompt": "Congratulations on your new {{BLANK}}.",
+   "punchline": "Can’t wait to"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "discordant music",
+     "setupDecoy": "Doctor Jazz"
+    },
+    {
+     "punchlineDecoy": "fire",
+     "setupDecoy": "Winky"
+    }
+   ],
+   "id": "120292",
+   "prompt": "My name is {{BLANK}}!",
+   "punchline": "I love"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "all the bugs",
+     "setupDecoy": "bugs"
+    },
+    {
+     "punchlineDecoy": "not always expressing them in a healthy way",
+     "setupDecoy": "emotions"
+    }
+   ],
+   "id": "120293",
+   "prompt": "I’m full of {{BLANK}}!",
+   "punchline": "Sorry about"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "I was dropped in a toilet",
+     "setupDecoy": "dirty"
+    },
+    {
+     "punchlineDecoy": "I’m full of diamonds!",
+     "setupDecoy": "expensive"
+    }
+   ],
+   "id": "120294",
+   "prompt": "I’m a little bit {{BLANK}}.",
+   "punchline": "It’s because"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "so much product in my garage!",
+     "setupDecoy": "an investment opportunity"
+    },
+    {
+     "punchlineDecoy": "so much time and I’m not good at anything!",
+     "setupDecoy": "my hobbies"
+    }
+   ],
+   "id": "120295",
+   "prompt": "Ask me about {{BLANK}}.",
+   "punchline": "I’ve got"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "buy me a fancy new car!",
+     "setupDecoy": "drive"
+    },
+    {
+     "punchlineDecoy": "expect much from me. I’m going to stop talking now.",
+     "setupDecoy": "talk to strangers"
+    }
+   ],
+   "id": "120296",
+   "prompt": "I’m not allowed to {{BLANK}}.",
+   "punchline": "So don’t"
+  }
+ ]
+}

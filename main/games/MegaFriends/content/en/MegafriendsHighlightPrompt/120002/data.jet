@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Aww, our friend here got us a bottle of wine! They say that the flavor has strong notes of BLANK. Sure, man, sure."
+  }
+ ]
+}

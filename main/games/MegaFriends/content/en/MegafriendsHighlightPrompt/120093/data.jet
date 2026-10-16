@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Uh-oh, we bothered our friend and they got ANGRY. What fearsome animal might they morph into? Oooh, morphing."
+  }
+ ]
+}

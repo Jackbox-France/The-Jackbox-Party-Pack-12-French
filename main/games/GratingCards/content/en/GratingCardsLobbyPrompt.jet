@@ -1,0 +1,60 @@
+{
+ "content": [
+  {
+   "id": "119443",
+   "prompt": "{{BLANK}} says..."
+  },
+  {
+   "id": "119444",
+   "prompt": "{{BLANK}} is the best"
+  },
+  {
+   "id": "119445",
+   "prompt": "Can’t stop {{BLANK}}"
+  },
+  {
+   "id": "119446",
+   "prompt": "Check out my {{BLANK}}"
+  },
+  {
+   "id": "119447",
+   "prompt": "Happy {{BLANK}} day!"
+  },
+  {
+   "id": "119448",
+   "prompt": "Feeling {{BLANK}}?"
+  },
+  {
+   "id": "119449",
+   "prompt": "What would {{BLANK}} do?"
+  },
+  {
+   "id": "119450",
+   "prompt": "It’s {{BLANK}} o’clock"
+  },
+  {
+   "id": "119451",
+   "prompt": "So much {{BLANK}}!!"
+  },
+  {
+   "id": "120286",
+   "prompt": "Better than {{BLANK}}"
+  },
+  {
+   "id": "120287",
+   "prompt": "Thinking about {{BLANK}}?"
+  },
+  {
+   "id": "120288",
+   "prompt": "What a {{BLANK}}"
+  },
+  {
+   "id": "120289",
+   "prompt": "You’re my {{BLANK}}"
+  },
+  {
+   "id": "120291",
+   "prompt": "#1 {{BLANK}}"
+  }
+ ]
+}

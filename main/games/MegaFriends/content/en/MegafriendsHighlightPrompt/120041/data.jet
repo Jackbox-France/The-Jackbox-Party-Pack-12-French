@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Uh-oh. Our friend here has gotten REALLY into exotic pets. In fact, they’ve recently acquired BLANK."
+  }
+ ]
+}

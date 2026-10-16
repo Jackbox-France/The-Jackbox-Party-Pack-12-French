@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "I’ve had enough of these two. Let’s take them to the Renaissance fair, dress them up as BLANK, and leave ‘em there!"
+  }
+ ]
+}
