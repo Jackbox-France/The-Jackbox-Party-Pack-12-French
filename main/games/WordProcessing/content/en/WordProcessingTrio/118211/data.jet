@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Tell me, dear ones, are each of the names you’re about to encounter best classified as..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio0"
+  },
+  {
+   "t": "A",
+   "v": "buckets_0_audio",
+   "n": "TitleAudio0",
+   "s": "one of Shakespeare’s Royal Characters...."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio1"
+  },
+  {
+   "t": "A",
+   "v": "buckets_1_audio",
+   "n": "TitleAudio1",
+   "s": "a Roman Emperor..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio2"
+  },
+  {
+   "t": "A",
+   "v": "buckets_2_audio",
+   "n": "TitleAudio2",
+   "s": "...or a Moon in the Solar System."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

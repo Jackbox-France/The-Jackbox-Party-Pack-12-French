@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "This one should be sooo simple... if you pay attention. You are going to see some phrases. Tell me, is each one..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio0"
+  },
+  {
+   "t": "A",
+   "v": "buckets_0_audio",
+   "n": "TitleAudio0",
+   "s": "Missing the Word “Up”..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio1"
+  },
+  {
+   "t": "A",
+   "v": "buckets_1_audio",
+   "n": "TitleAudio1",
+   "s": "Missing the Word “Down”..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio2"
+  },
+  {
+   "t": "A",
+   "v": "buckets_2_audio",
+   "n": "TitleAudio2",
+   "s": "...or Missing the Word “Back.” Pro tip: the missing word may belong at the FRONT of the phrase or at the END of the phrase. You decide!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

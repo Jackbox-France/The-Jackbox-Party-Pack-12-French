@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Pay attention! This may help in the event of fire. You’re about to see fill-in-the-blank phrases. Tell me if each blank..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio0"
+  },
+  {
+   "t": "A",
+   "v": "buckets_0_audio",
+   "n": "TitleAudio0",
+   "s": "Needs the word Stop..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio1"
+  },
+  {
+   "t": "A",
+   "v": "buckets_1_audio",
+   "n": "TitleAudio1",
+   "s": "Needs the word Drop..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio2"
+  },
+  {
+   "t": "A",
+   "v": "buckets_2_audio",
+   "n": "TitleAudio2",
+   "s": "...or Needs the word Roll."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

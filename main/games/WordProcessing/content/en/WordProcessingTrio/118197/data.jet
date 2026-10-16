@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "For every yin, there is a yang. Consider that as the answers pass before you. Tell me if each one..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio0"
+  },
+  {
+   "t": "A",
+   "v": "buckets_0_audio",
+   "n": "TitleAudio0",
+   "s": "Extends & Retracts..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio1"
+  },
+  {
+   "t": "A",
+   "v": "buckets_1_audio",
+   "n": "TitleAudio1",
+   "s": "Tightens & Loosens..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio2"
+  },
+  {
+   "t": "A",
+   "v": "buckets_2_audio",
+   "n": "TitleAudio2",
+   "s": "...or Starts & Stops... some type of action."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

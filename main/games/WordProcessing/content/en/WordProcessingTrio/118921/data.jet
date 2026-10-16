@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "May the stars be aligned for you, dear friends. Tell me if each of the celebrities who will glitter before you is..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio0"
+  },
+  {
+   "t": "A",
+   "v": "buckets_0_audio",
+   "n": "TitleAudio0",
+   "s": "a Disney Child Star..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio1"
+  },
+  {
+   "t": "A",
+   "v": "buckets_1_audio",
+   "n": "TitleAudio1",
+   "s": "a Multi-Platinum Pop Star..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTitleAudio2"
+  },
+  {
+   "t": "A",
+   "v": "buckets_2_audio",
+   "n": "TitleAudio2",
+   "s": "...or BOTH a Disney Child Star AND a Multi-Platinum Pop Star."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}
