@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTextAudio"
+  },
+  {
+   "t": "A",
+   "v": "text",
+   "n": "TextAudio",
+   "s": "Whoa, what’s that thing I see way up there?"
+  }
+ ]
+}

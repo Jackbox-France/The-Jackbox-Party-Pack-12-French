@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "What petty crime do you think our friends would be VERY good at? For example, I sunbathe nude in golf course sand traps!"
+  }
+ ]
+}

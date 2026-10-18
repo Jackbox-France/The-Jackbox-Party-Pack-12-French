@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Look! Our friend found their coat they haven't worn in a while. What did they accidentally leave in the pocket last winter? Mmm, linty."
+  }
+ ]
+}

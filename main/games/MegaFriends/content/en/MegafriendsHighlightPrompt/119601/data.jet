@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Our friend isn’t a conspiracy theorist, but we’re pretty sure they could convince us that BLANK is real. But then again, I’m VERY gullible. And gummable!"
+  }
+ ]
+}

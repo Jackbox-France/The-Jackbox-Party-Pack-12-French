@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "It’s hard for a haunter to stand out these days. If this pal were a ghost, what would be an interesting place for them to haunt?"
+  }
+ ]
+}

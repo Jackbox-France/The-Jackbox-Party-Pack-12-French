@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "If we all pitch in to get our friend a $300 food gift card, what should they buy with it? I'd buy one expensive grape!"
+  }
+ ]
+}

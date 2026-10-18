@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "We dared our friend to eat 50 of something in 10 minutes...what are they going to eat?? For me, it’s myself!"
+  }
+ ]
+}

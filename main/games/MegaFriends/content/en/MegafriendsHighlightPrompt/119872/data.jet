@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "We’ve ALL got stuff on our fridge! What delightful miscellany might our friend pin to THEIR refrigerator?"
+  }
+ ]
+}

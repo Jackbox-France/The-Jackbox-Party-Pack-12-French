@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "We’ve all decided to commission an oil painting of our darling friend. What precious personal object are they holding in it? I would hold all of my friends!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "IF they win, what fast-casual restaurant will our pals take us to to celebrate their win? ...I’ll need a booster seat!"
+  }
+ ]
+}

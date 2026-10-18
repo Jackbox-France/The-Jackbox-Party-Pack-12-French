@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Our pal here is going to knock it out of the ballpark! But we don’t know EXACTLY what they’ll be doing there. What’s a baseball-type job they might have?"
+  }
+ ]
+}

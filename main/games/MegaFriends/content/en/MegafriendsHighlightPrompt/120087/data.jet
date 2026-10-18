@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Getcha groove on! The wedding playlist is a banger; who at the reception is our friend pulling out on the dance floor?"
+  }
+ ]
+}
