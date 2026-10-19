@@ -91,7 +91,7 @@
         "Mais j’adore les disputes chaotiques"
       ],
       "id": "117020",
-      "subject": "Nous devrions régler les conflits en jetant des fioles de fumée et en criant dramatiquement « ASSEZ ! »"
+      "subject": "Nous devrions régler les conflits en jetant des fioles de fumée et en criant dramatiquement 'ASSEZ !'"
     },
     {
       "buffs": [
@@ -133,10 +133,10 @@
       "flaws": [
         "Est-ce que les photos d’oiseaux comptent ?",
         "J’ai des marques de chapeau sur la tête",
-        "Je ne sais pas ce que signifie « charmant »"
+        "Je ne sais pas ce que signifie 'charmant'"
       ],
       "id": "117027",
-      "subject": "Il devrait exister un chapeau stylé qui murmure doucement « oiseau » dès que tu en vois un"
+      "subject": "Il devrait exister un chapeau stylé qui murmure doucement 'oiseau' dès que tu en vois un"
     },
     {
       "buffs": [
@@ -151,7 +151,7 @@
         "Difficile de cacher que tu y vas activement"
       ],
       "id": "117077",
-      "subject": "Je porterais une couche qui téléporte tes déchets dans une autre dimension",
+      "subject": "Je porterais une couche qui téléporte les déchets dans une autre dimension",
       "x": true
     },
     {
@@ -182,7 +182,7 @@
         "Les guides touristiques occupés te détesteront"
       ],
       "id": "117271",
-      "subject": "Dès que quelqu’un dit « Des questions ? », TU DOIS en poser une"
+      "subject": "Dès que quelqu’un dit 'Des questions ?', TU DOIS en poser une"
     },
     {
       "buffs": [
@@ -233,7 +233,7 @@
       "buffs": [
         "Cela nuira à leur vie amoureuse",
         "Je préfère qu’ils abandonnent plutôt que de mourir",
-        "« Ouais… Je ne construirai pas cette colonie »"
+        "'Ouais… Je ne construirai pas cette colonie'"
       ],
       "fillers": [],
       "flaws": [
@@ -249,7 +249,7 @@
          "buffs": [
             "Neutre en genre",
             "Le changement est une bonne chose",
-            "Dites « Ohé matelot » pour une vie plus excitante !"
+            "Dites 'Ohé matelot' pour une vie plus excitante !"
          ],
          "fillers": [],
          "flaws": [
@@ -258,7 +258,7 @@
             "Anti-cowboy"
          ],
          "id": "117326",
-         "subject": "Nous devrions remplacer « bonjour » par « ohé, matelot ! »"
+         "subject": "Nous devrions remplacer 'bonjour' par 'ohé, matelot !'"
       },
       {
          "buffs": [
@@ -304,7 +304,7 @@
          "flaws": [
             "Je suis trop vieux pour rebondir",
             "Mon chien se lancerait",
-            "Que signifie « légèrement » ?"
+            "Que signifie 'légèrement' ?"
          ],
          "id": "117531",
          "subject": "Nous devrions rendre tous les trottoirs légèrement rebondissants"
@@ -536,19 +536,19 @@
             "Zut, j’ai déjà bien mangé avec l’entrée"
          ],
          "id": "117972",
-         "subject": "Les tavernes devraient proposer des ailes « Tout ce que tu DOIS manger »"
+         "subject": "Les tavernes devraient proposer des ailes 'Tout ce que tu DOIS manger'"
       },
       {
          "buffs": [
             "La paille évite de renverser sur mes vêtements d’adulte",
             "Les adultes méritent aussi un petit plaisir",
-            "Un bruit amusant de « slurrrrrrp » en finissant la boîte"
+            "Un bruit amusant de 'slurrrrrrp' en finissant la boîte"
          ],
          "fillers": [],
          "flaws": [
             "Surcharge de sucre !",
             "Plus d’accès à l’Ecto-Cooler me ruinerait",
-            "C’est embarrassant de demander « la rouge »"
+            "C’est embarrassant de demander 'la rouge'"
          ],
          "id": "117973",
          "subject": "Il faut des boîtes de jus de taille adulte"
@@ -667,7 +667,7 @@
          "fillers": [],
          "flaws": [
             "Les oreillers sont bon marché",
-            "Je ne veux pas entendre un « clonk » à cause de porteurs maladroits",
+            "Je ne veux pas entendre un 'clonk' à cause de porteurs maladroits",
             "Mon cercueil ouvert a besoin de beaucoup de mise en scène"
          ],
          "id": "118034",
@@ -772,17 +772,17 @@
         "Ça ferait paniquer les touristes... J’adore"
       ],
       "fillers": [
-        "« Et maintenant ? »",
+        "'Et maintenant ?'",
         "une petite danse",
         "un silence complet"
       ],
       "flaws": [
         "J’éviterais encore plus de gens",
         "Comment chanter comme Adele ?",
-        "Je me contenterai de dire « salut »"
+        "Je me contenterai de dire 'salut'"
       ],
       "id": "118109",
-      "subject": "Notre ville devrait remplacer « bonjour » par {{BLANK}}"
+      "subject": "Notre ville devrait remplacer 'bonjour' par {{BLANK}}"
     },
     {
       "buffs": [
@@ -836,7 +836,7 @@
       "flaws": [
         "Dégoûtant !",
         "À quelle fréquence le suggérez-vous ?",
-        "Définissez « propre »"
+        "Définissez 'propre'"
       ],
       "id": "118123",
       "subject": "Nous n’avons pas besoin de nettoyer {{BLANK}} aussi souvent que nous le pensons !"
@@ -1420,7 +1420,7 @@
     },
     {
       "buffs": [
-        "Toutes les rencontres ne sont pas une « fête »",
+        "Toutes les rencontres ne sont pas une 'fête'",
         "Ce n’est pas une fête, c’est une réunion de travail",
         "Ce n’est pas grave, il y aura toujours la prochaine fois"
       ],
@@ -1431,7 +1431,7 @@
       ],
       "flaws": [
         "D’accord, mais ne le dis pas à l’hôte... c’est impoli",
-        "Bon, donnez-moi une fête qui n’est pas « réelle » alors",
+        "Bon, donnez-moi une fête qui n’est pas 'réelle' alors",
         "Désolé si ma compagnie n’est pas assez bien !!!"
       ],
       "id": "118555",
@@ -1446,7 +1446,7 @@
       ],
       "fillers": [],
       "flaws": [
-        "J’ai besoin de « petits » mensonges quotidiennement",
+        "J’ai besoin de 'petits' mensonges quotidiennement",
         "Tu fais un excellent travail dans ce débat !",
         "Ça semblait difficile même pour Jim Carrey"
       ],
@@ -1546,7 +1546,7 @@
       "fillers": [],
       "flaws": [
         "Augmente les risques d’en avoir de venimeux",
-        "La phrase la plus terrifiante : « Ferme à araignées »",
+        "La phrase la plus terrifiante : 'Ferme à araignées'",
         "Et si on avait AUCUNE araignée ?"
       ],
       "id": "118581",
@@ -1635,7 +1635,7 @@
       ],
       "fillers": [],
       "flaws": [
-        "« Dents supplémentaires » est une phrase flippante",
+        "'Dents supplémentaires' est une phrase flippante",
         "Il suffit d’en prendre soin",
         "Assez pour quoi ?"
       ],
@@ -1662,12 +1662,12 @@
       "buffs": [
         "Seuls les vieux disent ça",
         "Ça a bien fonctionné",
-        "Tout ne peut pas être « cool »"
+        "Tout ne peut pas être 'cool'"
       ],
       "fillers": [
-        "« bébé »",
-        "« décompresse »",
-        "« nickel chrome »"
+        "'bébé'",
+        "'décompresse'",
+        "'nickel chrome'"
       ],
       "flaws": [
         "Police du langage !",
@@ -1748,7 +1748,7 @@
       ],
       "flaws": [
         "Ils seraient trop occupés",
-        "« Amis » est fort",
+        "'Amis' est fort",
         "Je ne fais pas confiance à leurs idées politiques"
       ],
       "id": "118798",
@@ -1790,7 +1790,7 @@
         "Ennuyeux à mourir"
       ],
       "id": "118800",
-      "subject": "Les vidéos ne lui rendent pas justice, {{BLANK}} est vraiment fun si tu y es",
+      "subject": "Les vidéos ne le rendent pas justice, {{BLANK}} est vraiment fun si tu y es",
       "x": false
     },
     {
@@ -1806,11 +1806,11 @@
       ],
       "flaws": [
         "Je ne connais pas la signification du terme",
-        "C’est « nuire aux autres »",
+        "C’est 'nuire aux autres'",
         "Tu mérites mieux"
       ],
       "id": "118801",
-      "subject": "{{BLANK}} n’est pas un « soin personnel »"
+      "subject": "{{BLANK}} n’est pas un 'soin personnel'"
     },
     {
       "buffs": [
@@ -1825,7 +1825,7 @@
       ],
       "flaws": [
         "Euh... visuellement ?",
-        "Définis « mignon »",
+        "Définis 'mignon'",
         "Regarde mieux"
       ],
       "id": "118802",
@@ -1902,7 +1902,7 @@
       "flaws": [
         "Tu ne vois que le positif",
         "Pas avec ta faiblesse... tu sais laquelle",
-        "« S’épanouir » est un bien grand mot"
+        "'S’épanouir' est un bien grand mot"
       ],
       "id": "118806",
       "subject": "Franchement, je pense que je m’épanouirais dans {{BLANK}}"
@@ -1930,7 +1930,7 @@
       "buffs": [
         "À y penser, ça me fait mal aux dents",
         "Au milieu de la ville ?!?",
-        "Le problème, c’est le « constant »"
+        "Le problème, c’est le 'constant'"
       ],
       "fillers": [
         "un grognement",
@@ -1981,7 +1981,7 @@
         "Lire ? Berk... donne-moi une vidéo"
       ],
       "id": "118811",
-      "subject": "Tous les citoyens devraient lire le livre « Comment {{BLANK}} »"
+      "subject": "Tous les citoyens devraient lire le livre 'Comment {{BLANK}}'"
     },
     {
       "buffs": [
@@ -2050,7 +2050,7 @@
     },
     {
       "buffs": [
-        "Peut-être que « mince » deviendra le pire juron !",
+        "Peut-être que 'mince' deviendra le pire juron !",
         "Tu pourrais peut-être siéger au conseil",
         "Un nouveau juron ? Il était temps !"
       ],
@@ -2072,7 +2072,7 @@
       ],
       "fillers": [],
       "flaws": [
-        "Des options infinies, mais tu obtiens « sauce singe »",
+        "Des options infinies, mais tu obtiens 'sauce singe'",
         "Tous les mots de passe vont être piratés",
         "On ne sait pas à quelle fréquence ça sera ou ne sera pas utilisé"
       ],
@@ -2082,7 +2082,7 @@
     {
       "buffs": [
         "Le monde pourrait utiliser plus de classe",
-        "Ça aide vraiment pour les conversations du type « qu'est-ce qu'on est ? »",
+        "Ça aide vraiment pour les conversations du type 'qu'est-ce qu'on est ?'",
         "Les célibataires pourraient dire qu'ils sont une toile vierge"
       ],
       "fillers": [],
@@ -2097,7 +2097,7 @@
     },
     {
       "buffs": [
-        "Ce n'est pas si difficile. « Crawl, brasse, jusqu'au bout... »",
+        "Ce n'est pas si difficile. 'Crawl, brasse, jusqu'au bout...'",
         "Ça prouve qui veut vraiment une piscine",
         "La créativité est un muscle qui doit être exercé"
       ],
@@ -2202,7 +2202,7 @@
     },
     {
       "buffs": [
-        "« Roues de charrette à l'aube »",
+        "'Roues de charrette à l'aube'",
         "Ce n'est pas comme si la vengeance avait disparu",
         "Tu pourrais amener une foule en sécurité"
       ],
@@ -2234,7 +2234,7 @@
       "buffs": [
         "Hé, maintenant tu sais",
         "Certains effets secondaires sont bons !",
-        "« Les polos peuvent entraîner des invitations à Top Golf. »"
+        "'Les polos peuvent entraîner des invitations à Top Golf.'"
       ],
       "fillers": [],
       "flaws": [
@@ -2307,7 +2307,7 @@
     },
     {
       "buffs": [
-        "Je ne connais pas le mot « carpaccio »",
+        "Je ne connais pas le mot 'carpaccio'",
         "Donnons plus de crédit à la raison pour laquelle nous sommes tous là",
         "Une image vaut 1 000 mots"
       ],
@@ -2440,7 +2440,7 @@
         "Si tu te trompes, ça fait mal"
       ],
       "id": "119266",
-      "subject": "Les grands magasins devraient avoir un « menu secret »"
+      "subject": "Les grands magasins devraient avoir un 'menu secret'"
     },
     {
       "buffs": [
@@ -2536,7 +2536,7 @@
       "buffs": [
         "Et je mènerai la charge !!!",
         "La culture est cyclique",
-        "Il y a maintenant des tonnes d’articles qui disent « disparu trop tôt »"
+        "Il y a maintenant des tonnes d’articles qui disent 'disparu trop tôt'"
       ],
       "fillers": [
         "le disco",
@@ -2655,7 +2655,7 @@
         "Comment organiser ça ?"
       ],
       "id": "119328",
-      "subject": "Chacun devrait avoir droit à une nuit par mois où on peut passer en « mode loup-garou »",
+      "subject": "Chacun devrait avoir droit à une nuit par mois où on peut passer en 'mode loup-garou'",
       "x": true
     },
     {
@@ -2716,7 +2716,7 @@
         "C’est de l’amour... l’ingrédient secret est toujours l’amour."
       ],
       "id": "119334",
-      "subject": "Les sauces ne devraient jamais être « secrètes »"
+      "subject": "Les sauces ne devraient jamais être 'secrètes'"
     },
     {
       "buffs": [
@@ -3051,7 +3051,7 @@
       {
          "buffs": [
             "12 chaînes = assez d’amis",
-            "Amusant de finir une phrase par « TERMINÉ »",
+            "Amusant de finir une phrase par 'TERMINÉ'",
             "Pas besoin d’acheter, il n’y a qu’un seul modèle"
          ],
          "fillers": [],
@@ -3144,7 +3144,7 @@
          "buffs": [
             "Musique parfaite pour le bain",
             "Conçu pour les chanteurs celtiques",
-            "Qu’est-ce qui rime avec « krill » ?"
+            "Qu’est-ce qui rime avec 'krill' ?"
          ],
          "fillers": [],
          "flaws": [
@@ -3188,9 +3188,9 @@
       },
       {
          "buffs": [
-            "« Mets tes peluches ! Il fait froid ! »",
+            "'Mets tes peluches ! Il fait froid !'",
             "Hauts, salopettes, sous-vêtements... on est à moitié là !",
-            "Mais qu’est-ce que c’est qu’un « trouser » ?!?"
+            "Mais qu’est-ce que c’est qu’un 'trouser' ?!?"
          ],
          "fillers": [],
          "flaws": [
@@ -3199,7 +3199,7 @@
             "Est-ce qu’on ne peut pas juste être nus ?!"
          ],
          "id": "119431",
-         "subject": "Tous les vêtements devraient suivre la convention de nommage de « shorts »"
+         "subject": "Tous les vêtements devraient suivre la convention de nommage de 'shorts'"
       },
       {
          "buffs": [
@@ -3451,7 +3451,7 @@
       {
          "buffs": [
             "Ça explique les observations d’OVNIs",
-            "Nous vivons à une époque « excitante »",
+            "Nous vivons à une époque 'excitante'",
             "Ils ne peuvent pas interférer"
          ],
          "fillers": [],
@@ -3862,7 +3862,7 @@
       },
       {
          "buffs": [
-            "« Les cardinaux ont parlé. »",
+            "'Les cardinaux ont parlé.'",
             "De purs objets de résistance [i]magnifiques[/i]",
             "Tu sais qu’ils ont assez de fumée"
          ],
@@ -3940,7 +3940,7 @@
          "flaws": [
             "Il est temps de renégocier les lois sur l’immigration !",
             "Tous les pays ont des potes",
-            "Je ne peux pas offrir de « hangs » attirants"
+            "Je ne peux pas offrir de 'hangs' attirants"
          ],
          "id": "119722",
          "subject": "Lançons un programme d’échange étudiant, mais pour les groupes d’amis"
@@ -3994,7 +3994,7 @@
          "buffs": [
             "Écoute-les...",
             "Ils ont eu une enfance difficile",
-            "Définis « malfaisant »"
+            "Définis 'malfaisant'"
          ],
          "fillers": [
             "Bowser",
@@ -4636,7 +4636,7 @@
       {
          "buffs": [
             "Gagnez cet argent !",
-            "« Le sac à dos officiel de l’équipe de Jimmy »",
+            "'Le sac à dos officiel de l’équipe de Jimmy'",
             "Ça ne pourrait pas être pire que les pros"
          ],
          "fillers": [],
@@ -4860,7 +4860,7 @@
             "Ils augmenteraient simplement le prix"
          ],
          "id": "120116",
-         "subject": "{{BLANK}} devrait toujours être « un acheté, un offert »"
+         "subject": "{{BLANK}} devrait toujours être 'un acheté, un offert'"
       },
       {
          "buffs": [
@@ -5092,7 +5092,7 @@
       {
          "buffs": [
             "Interdisons-les",
-            "Essayez la défense « C’est une blague, mec » au tribunal",
+            "Essayez la défense 'C’est une blague, mec' au tribunal",
             "Implique fondamentalement la tromperie"
          ],
          "fillers": [],
@@ -5187,7 +5187,7 @@
          ],
          "fillers": [],
          "flaws": [
-            "« Fonctionnel » n’est pas le meilleur adjectif",
+            "'Fonctionnel' n’est pas le meilleur adjectif",
             "Je ne veux pas me faire manger par des dinosaures",
             "Youpi pour la science ! Boo pour les entreprises qui veulent juste faire de l’argent !"
          ],
@@ -5473,8 +5473,8 @@
          "buffs": [],
          "fillers": [
             "la gravité",
-            "« ne pas boire de lait après la date de péremption »",
-            "« ne pas doubler dans une file d’attente »"
+            "'ne pas boire de lait après la date de péremption'",
+            "'ne pas doubler dans une file d’attente'"
          ],
          "flaws": [],
          "id": "120245",
@@ -5550,7 +5550,7 @@
          "flaws": [
             "Je me connais",
             "Je ne pourrais pas être plus fabuleux",
-            "Définis « fabuleux »"
+            "Définis 'fabuleux'"
          ],
          "id": "120253",
          "subject": "En moyenne, on est tous environ 10 % plus fabuleux que ce qu’on pense"
@@ -5573,7 +5573,7 @@
       {
          "buffs": [
             "Les règles du génie",
-            "« Comment gagner au tribunal ? »",
+            "'Comment gagner au tribunal ?'",
             "Je demande 100 avocats"
          ],
          "fillers": [],
@@ -5691,7 +5691,7 @@
             "Je ne veux pas m’étaler devant mes collègues"
          ],
          "id": "120339",
-         "subject": "Tous les bureaux devraient avoir une journée « Le sol est de la lave »"
+         "subject": "Tous les bureaux devraient avoir une journée 'Le sol est de la lave'"
       }
  ]
 }
