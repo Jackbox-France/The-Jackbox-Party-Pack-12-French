@@ -1,35 +1,35 @@
 {
  "content": [
   {
-   "altText": "A cat vomiting in backyard grass.",
+   "altText": "Un chat qui vomit dans l'herbe du jardin.",
    "category": "POV",
    "id": "116301",
    "position": "SECOND",
    "prompts": [
-    "Your reaction when you take a walk and see this:"
+    "Ta réaction quand tu te promènes et que tu vois ça :"
    ],
    "selfieDirection": "",
    "x": true
   },
   {
-   "altText": "A tattooed white man aggressively eating Buffalo chicken wings in a white tank top covered in sauce.",
+   "altText": "Un homme blanc tatoué, en débardeur blanc couvert de sauce, en train de manger avec appétit des ailes de poulet.",
    "category": "POV",
    "id": "116302",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your date:"
+    "Ta tête quand ton rendez-vous est comme ça :"
    ],
    "selfieDirection": "",
    "starterContent": false,
    "x": true
   },
   {
-   "altText": "A long queue of people leading up to a door atop a staircase in a nondescript, windowless building.",
+   "altText": "Une longue file d'attente menant à une porte située en haut d'un escalier, dans un immeuble banal et dépourvu de fenêtres.",
    "category": "POV",
    "id": "116303",
    "position": "SECOND",
    "prompts": [
-    "Your face when this has been your point of view for the last fifty minutes:"
+    "Ta tête quand c'est comme ça que tu vois les choses depuis cinquante minutes :"
    ],
    "selfieDirection": ""
   },
@@ -39,7 +39,7 @@
    "id": "116304",
    "position": "SECOND",
    "prompts": [
-    "Your face when you wake up and you see this:"
+    "Ta tête quand tu te réveilles et que tu vois ça :"
    ],
    "selfieDirection": ""
   },
@@ -49,7 +49,7 @@
    "id": "116305",
    "position": "SECOND",
    "prompts": [
-    "Your reaction when this is your boss:"
+    "Ta réaction quand ton patron, c'est lui :"
    ],
    "selfieDirection": ""
   },
@@ -59,7 +59,7 @@
    "id": "116306",
    "position": "SECOND",
    "prompts": [
-    "Your face when you wake up at a sleepover to see this:"
+    "Ta tête quand tu te réveilles chez un ami et que tu vois ça :"
    ],
    "selfieDirection": ""
   },
@@ -69,7 +69,7 @@
    "id": "116307",
    "position": "SECOND",
    "prompts": [
-    "Your face when you stumble upon this scene:"
+    "Ta tête quand tu tombes par hasard sur cette scène :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -80,7 +80,7 @@
    "id": "116308",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your current point of view:"
+    "Ta tête quand tu as ce point de vue-là :"
    ],
    "selfieDirection": ""
   },
@@ -90,7 +90,7 @@
    "id": "116309",
    "position": "SECOND",
    "prompts": [
-    "Your face when you get home from a long day to find this:"
+    "Ta tête quand tu rentres chez toi après une longue journée et que tu tombes sur ça :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -101,7 +101,7 @@
    "id": "116310",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is how bro asks you to spot him:"
+    "Ta tête quand ton pote te demande de l'aider comme ça :"
    ],
    "selfieDirection": "",
    "x": true
@@ -112,7 +112,7 @@
    "id": "116311",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is the only bathroom at your hotel:"
+    "Ta tête quand c'est la seule salle de bains de ton hôtel :"
    ],
    "selfieDirection": ""
   },
@@ -122,7 +122,7 @@
    "id": "116386",
    "position": "SECOND",
    "prompts": [
-    "Your face when you come in to work and are met with this:"
+    "Ta tête quand tu arrives au boulot et que tu tombes sur ça :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -133,7 +133,7 @@
    "id": "116387",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your current point of view:"
+    "Ta tête quand tu as ce point de vue-là :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -144,7 +144,7 @@
    "id": "116388",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is what you’re seeing:"
+    "Ta tête quand tu vois ça :"
    ],
    "selfieDirection": ""
   },
@@ -154,7 +154,7 @@
    "id": "116389",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your one-night rental:"
+    "Ta tête quand c'est ta chambre pour une nuit :"
    ],
    "selfieDirection": ""
   },
@@ -164,7 +164,7 @@
    "id": "117264",
    "position": "SECOND",
    "prompts": [
-    "Your face when it’s day 27 in the labyrinth and you see this:"
+    "Ta tête quand tu en es au 27e jour dans le labyrinthe et que tu vois ça :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -175,7 +175,7 @@
    "id": "117265",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is the view from your apartment:"
+    "Ta tête quand c'est ça la vue depuis ton appartement :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -186,7 +186,7 @@
    "id": "117266",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is how she reacts:"
+    "Ta tête quand elle réagit comme ça :"
    ],
    "selfieDirection": ""
   },
@@ -196,7 +196,7 @@
    "id": "117267",
    "position": "SECOND",
    "prompts": [
-    "Your face when this has been going on for thirty minutes now:"
+    "Ta tête quand ça dure depuis trente minutes déjà :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -207,7 +207,7 @@
    "id": "117268",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your Saturday night:"
+    "Ta tête quand ça, c'est ton samedi soir :"
    ],
    "selfieDirection": ""
   },
@@ -217,7 +217,7 @@
    "id": "118523",
    "position": "SECOND",
    "prompts": [
-    "Your face when you start a new job and your manager is working like this:"
+    "Ta tête quand tu commences un nouveau boulot et que ton chef travaille comme ça :"
    ],
    "selfieDirection": ""
   },
@@ -227,7 +227,7 @@
    "id": "118524",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is what you see as you leave the bathroom"
+    "Ta tête quand c'est ça que tu vois en sortant des toilettes"
    ],
    "selfieDirection": ""
   },
@@ -237,7 +237,7 @@
    "id": "118525",
    "position": "SECOND",
    "prompts": [
-    "Your face when your co-worker digs into her lunch like this:"
+    "Ta tête quand ta collègue se jette sur son déjeuner comme ça :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -248,7 +248,7 @@
    "id": "118548",
    "position": "SECOND",
    "prompts": [
-    "Your face when the tattoo artist looks at you like this:"
+    "Ta tête quand le tatoueur te regarde comme ça :"
    ],
    "selfieDirection": ""
   },
@@ -258,7 +258,7 @@
    "id": "119029",
    "position": "SECOND",
    "prompts": [
-    "Your face when these three are looking at you like this from across the bar:"
+    "Ta tête quand ces trois-là te regardent comme ça depuis l'autre bout du bar :"
    ],
    "selfieDirection": "",
    "x": true
@@ -269,7 +269,7 @@
    "id": "119032",
    "position": "SECOND",
    "prompts": [
-    "Your face when you’re up against this fella:"
+    "Ta tête quand tu te retrouves face à ce type :"
    ],
    "selfieDirection": "",
    "starterContent": false
@@ -280,7 +280,7 @@
    "id": "119033",
    "position": "SECOND",
    "prompts": [
-    "Your face when your son acts like this:"
+    "Ta tête quand ton fils se comporte comme ça :"
    ],
    "selfieDirection": ""
   },
@@ -290,7 +290,7 @@
    "id": "119034",
    "position": "SECOND",
    "prompts": [
-    "Your face when you see this coming into your hiding place:"
+    "Ta tête quand tu verras ça arriver dans ta cachette :"
    ],
    "selfieDirection": ""
   },
@@ -300,7 +300,7 @@
    "id": "119183",
    "position": "SECOND",
    "prompts": [
-    "Your face when you find out this is what Santa looks like:"
+    "Ta tête quand tu découvres à quoi ressemble le Père Noël :"
    ],
    "selfieDirection": ""
   },
@@ -310,7 +310,7 @@
    "id": "119293",
    "position": "SECOND",
    "prompts": [
-    "Your face when these two come in to greet you like this:"
+    "Ta tête quand ces deux-là entrent pour te saluer comme ça :"
    ],
    "selfieDirection": "",
    "x": true
@@ -321,7 +321,7 @@
    "id": "119294",
    "position": "SECOND",
    "prompts": [
-    "Your face when the hour ride around the bay turns into 8 hours of this:"
+    "Ta tête quand la balade d'une heure autour de la baie se transforme en 8 heures de ça :"
    ],
    "selfieDirection": ""
   },
@@ -331,7 +331,7 @@
    "id": "120854",
    "position": "SECOND",
    "prompts": [
-    "Your face when learning your new romantic interest has six of these:"
+    "Ta tête quand tu découvres que la personne qui te plaît en a six :"
    ],
    "selfieDirection": ""
   },
@@ -341,7 +341,7 @@
    "id": "120855",
    "position": "SECOND",
    "prompts": [
-    "Your face when company’s almost here and this is what the bakery delivered:"
+    "Ta tête quand les invités sont sur le point d'arriver et que voilà ce que la boulangerie a livré :"
    ],
    "selfieDirection": ""
   },
@@ -351,7 +351,7 @@
    "id": "120856",
    "position": "SECOND",
    "prompts": [
-    "Your face when you’re in a dream and see this:"
+    "Ta tête quand tu es en plein rêve et que tu vois ça :"
    ],
    "selfieDirection": ""
   },
@@ -361,7 +361,7 @@
    "id": "120857",
    "position": "SECOND",
    "prompts": [
-    "Your face when your partner brings this home:"
+    "Ta tête quand ton partenaire ramène ça à la maison :"
    ],
    "selfieDirection": ""
   },
@@ -371,7 +371,7 @@
    "id": "120858",
    "position": "SECOND",
    "prompts": [
-    "Your face when you wake up to these every morning:"
+    "Ta tête quand tu te réveilles devant ça tous les matins :"
    ],
    "selfieDirection": ""
   },
@@ -381,7 +381,7 @@
    "id": "120859",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your only weekend activity:"
+    "Ton expression quand c'est ta seule activité du week-end :"
    ],
    "selfieDirection": ""
   },
@@ -391,7 +391,7 @@
    "id": "120860",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your new home:"
+    "Ta tête quand tu découvres que c'est ta nouvelle maison :"
    ],
    "selfieDirection": "www.gettyimages.com/detail/photo/aerial-view-of-boreal-nature-forest-river-and-log-royalty-free-image/1340350864?slot=2&adppopup=true"
   },
@@ -401,7 +401,7 @@
    "id": "120861",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your new doctor:"
+    "Ta tête quand tu découvres que c'est ton nouveau médecin :"
    ],
    "selfieDirection": ""
   },
@@ -411,7 +411,7 @@
    "id": "120862",
    "position": "SECOND",
    "prompts": [
-    "Your face when you’ve got three hours left to finish this:"
+    "Ta tête quand il ne te reste plus que trois heures pour finir ça :"
    ],
    "selfieDirection": ""
   },
@@ -421,7 +421,7 @@
    "id": "120863",
    "position": "SECOND",
    "prompts": [
-    "Your face when, over the roar of the crowd, you’re seeing this:"
+    "Ton expression quand, malgré le vacarme de la foule, tu vois ça :"
    ],
    "selfieDirection": ""
   },
@@ -431,7 +431,7 @@
    "id": "120864",
    "position": "SECOND",
    "prompts": [
-    "Your face when your cool new apartment is next to this:"
+    "Ta tête quand tu découvres que ton nouvel appart trop cool se trouve juste à côté de ça :"
    ],
    "selfieDirection": ""
   },
@@ -441,7 +441,7 @@
    "id": "120865",
    "position": "SECOND",
    "prompts": [
-    "Your face when you’re watching this:"
+    "Ton expression quand tu regardes ça :"
    ],
    "selfieDirection": ""
   },
@@ -451,7 +451,7 @@
    "id": "121292",
    "position": "SECOND",
    "prompts": [
-    "Your face when this guy starts another of his rambling, folksy stories:"
+    "Ta tête quand ce type se lance dans une nouvelle de ses histoires décousues et populaires :"
    ],
    "selfieDirection": ""
   },
@@ -461,7 +461,7 @@
    "id": "121293",
    "position": "SECOND",
    "prompts": [
-    "Your face when it's time to meet your new boss and it's this:"
+    "Ta tête quand vient le moment de rencontrer ton nouveau patron et que c'est ça :"
    ],
    "selfieDirection": ""
   },
@@ -471,7 +471,7 @@
    "id": "121294",
    "position": "SECOND",
    "prompts": [
-    "Your face when a bunch of these follow you everywhere:"
+    "Ta tête quand tout un tas de ces trucs te suivent partout :"
    ],
    "selfieDirection": ""
   },
@@ -481,7 +481,7 @@
    "id": "121295",
    "position": "SECOND",
    "prompts": [
-    "Your face when you're hanging ten off your board and rushing into this:"
+    "Ta tête quand tu es en train de faire du surf et que tu te retrouves face à ça :"
    ],
    "selfieDirection": ""
   },
@@ -492,7 +492,7 @@
    "id": "121296",
    "position": "SECOND",
    "prompts": [
-    "Your face when you paid $275 and this is brought to you:"
+    "Ta réaction quand tu as payé 275 € et qu'on t'a apporté ça :"
    ],
    "selfieDirection": ""
   }
